@@ -14,6 +14,7 @@ A simple python based app to guess wordle's words
 Guide:
 
 Correct Position:
+
   Insert correct letters with correct positions.
   
 Wrong Position:
@@ -21,4 +22,5 @@ Wrong Position:
   Insert correct letters with wrong positions.
   
 Wrong Letters:
+
   Insert wrong letters with no space. 
